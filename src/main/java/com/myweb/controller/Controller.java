@@ -11,7 +11,7 @@ public class Controller {
 
     @GetMapping("/")
     public List<String> getHelloWorld() {
-        //Hello world
+        //Hello world!!!!!!
         //Изменяю при помощи гита
         //Какой-то функицонал
         return Arrays.asList("1","2","3");
