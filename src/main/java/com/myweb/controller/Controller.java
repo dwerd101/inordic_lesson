@@ -12,6 +12,7 @@ public class Controller {
     @GetMapping("/")
     public List<String> getHelloWorld() {
         //Hello world
+        //Изменяю при помощи гита
         return Arrays.asList("1","2","3");
     }
 }
